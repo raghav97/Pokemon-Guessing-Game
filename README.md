@@ -12,9 +12,15 @@ We assume that a pokemon can have only one type at a time. That is, if the pokem
 Let's assume that the pokemon I have in my mind is Sceptile
 
 Do you know the rules? (y/n)
+
 y
+
+
 Before we begin, do you know the generation of the pokemon you have in your mind? (y/n)
+
 n
+
+
 Is pokemon's type Fire/ Grass/ Water/ Electric? (y/n)
 y
 Is pokemon's type Fire/ Grass? (y/n)
