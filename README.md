@@ -8,7 +8,7 @@ The details about the Pokemons are stored in yaml format.
 
 We assume that a pokemon can have only one type at a time. That is, if the pokemon is Venusaur, it is either Grass or Poison at a time.
 
-## Example code
+## Example
 Let's assume that the pokemon I have in my mind is Sceptile
 
 *Do you know the rules? (y/n)*
