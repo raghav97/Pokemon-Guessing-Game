@@ -11,22 +11,22 @@ We assume that a pokemon can have only one type at a time. That is, if the pokem
 ## Example code
 Let's assume that the pokemon I have in my mind is Septile
 
-*Do you know the rules? (y/n)
+*Do you know the rules? (y/n)*
 y
 *Before we begin, do you know the generation of the pokemon you have in your mind? (y/n)
 n
-*Is pokemon's type Fire/ Grass/ Water/ Electric? (y/n)
+*Is pokemon's type Fire/ Grass/ Water/ Electric? (y/n)*
 y
-*Is pokemon's type Fire/ Grass? (y/n)
+*Is pokemon's type Fire/ Grass? (y/n)*
 y
-*Is pokemon's type Fire? (y/n)
+*Is pokemon's type Fire? (y/n)*
 n
-*Is pokemon a basic/ stage 1 pokemon? (y/n)
+*Is pokemon a basic/ stage 1 pokemon? (y/n)*
 n
-*Is your pokemons starting letter between n and z (y/n)
+*Is your pokemons starting letter between n and z (y/n)*
 y
-*Is your pokemons starting letter between n and r (y/n)
+*Is your pokemons starting letter between n and r (y/n)*
 n
-*Is Sceptile your Pokemon? (y/n)
+*Is Sceptile your Pokemon? (y/n)*
 y
-*So it took me 7 number of guesses!. Thanks for playing!
+*So it took me 7 number of guesses!. Thanks for playing!*
