@@ -1,0 +1,5889 @@
+---
+- !ruby/object:Poke
+  Name: Bulbasaur
+  Type: Grass
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Ivysaur
+  Type: Grass
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Venusaur
+  Type: Grass
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Bulbasaur
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Ivysaur
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Venusaur
+  Type: Poison
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Charmander
+  Type: Fire
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Charmeleon
+  Type: Fire
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Charizard
+  Type: Fire
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Charizard
+  Type: Dragon
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Squirtle
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Wartortle
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Blastoise
+  Type: Water
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Caterpie
+  Type: Grass
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Metapod
+  Type: Grass
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Butterfree
+  Type: Grass
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Butterfree
+  Type: Flying
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Weedle
+  Type: Grass
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Kakuna
+  Type: Grass
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Beedrill
+  Type: Grass
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Pidgey
+  Type: Flying
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Pidgeotto
+  Type: Flying
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Pidgeot
+  Type: Flying
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Pidgey
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Pidgeotto
+  Type: Normal
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Pidgeot
+  Type: Normal
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Rattata
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Raticate
+  Type: Normal
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Spearow
+  Type: Flying
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Fearow
+  Type: Flying
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Spearow
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Fearow
+  Type: Normal
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Ekans
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Arbok
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Pikachu
+  Type: Electric
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Raichu
+  Type: Electric
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Sandshrew
+  Type: Ground
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Sandslash
+  Type: Ground
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Nidoran(F)
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Nidorina
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Nidoqueen
+  Type: Poison
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Nidoran(M)
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Nidorino
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Nidoking
+  Type: Poison
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Clefairy
+  Type: Fairy
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Clefable
+  Type: Fairy
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Clefairy
+  Type: Normal
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Clefable
+  Type: Normal
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Vulpix
+  Type: Fire
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Ninetales
+  Type: Fire
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Jigglypuff
+  Type: Fairy
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Wigglytuff
+  Type: Fairy
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Jigglypuff
+  Type: Normal
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Wigglytuff
+  Type: Normal
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Zubat
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Golbat
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Zubat
+  Type: Flying
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Golbat
+  Type: Flying
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Odish
+  Type: Grass
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Gloom
+  Type: Grass
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Vileplume
+  Type: Grass
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Odish
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Gloom
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Vileplume
+  Type: Poison
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Paras
+  Type: Grass
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Parasect
+  Type: Grass
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Venonat
+  Type: Grass
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Venomoth
+  Type: Grass
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Venonat
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Venomoth
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Diglett
+  Type: Ground
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Dugtrio
+  Type: Ground
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Meowth
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Persian
+  Type: Normal
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Psyduck
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Golduck
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Mankey
+  Type: Fighting
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Primeape
+  Type: Fighting
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Growlithe
+  Type: Fire
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Arcanine
+  Type: Fire
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Poliwag
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Poliwhirl
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Poliwrath
+  Type: Water
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Poliwrath
+  Type: Fighting
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Abra
+  Type: Psychic
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Kadabra
+  Type: Psychic
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Alakazam
+  Type: Psychic
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Machop
+  Type: Fighting
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Machoke
+  Type: Fighting
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Machamp
+  Type: Fighting
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Bellsprout
+  Type: Grass
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Weepinbell
+  Type: Grass
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Victreebell
+  Type: Grass
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Bellsprout
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Weepinbell
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Victreebell
+  Type: Poison
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Tentacool
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Tentacruel
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Tentacool
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Tentacruel
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Geodude
+  Type: Ground
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Graveler
+  Type: Ground
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Golem
+  Type: Ground
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Ponyta
+  Type: Fire
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Rapidash
+  Type: Fire
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Slowpoke
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Slowbro
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Slowpoke
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Slowbro
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Magnemite
+  Type: Electric
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Magneton
+  Type: Electric
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Magnemite
+  Type: Steel
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Magneton
+  Type: Steel
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Farfetch'd
+  Type: Flying
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Farfetch'd
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Doduo
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Dodrio
+  Type: Normal
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Seel
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Dewgong
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Seel
+  Type: Ice
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Dewgong
+  Type: Ice
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Grimer
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Muk
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Shellder
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Cloyster
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Gastly
+  Type: Ghost
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Haunter
+  Type: Ghost
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Gengar
+  Type: Ghost
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Gastly
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Haunter
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Gengar
+  Type: Poison
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Onyx
+  Type: Ground
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Drowzee
+  Type: Psychic
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Hypno
+  Type: Psychic
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Krabby
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Kingler
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Voltorb
+  Type: Electric
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Electrode
+  Type: Electric
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Exeggcute
+  Type: Grass
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Exeggcutor
+  Type: Grass
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Exeggcute
+  Type: Psychic
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Exeggcutor
+  Type: Psychic
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Cubone
+  Type: Ground
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Marowak
+  Type: Ground
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Hitmonlee
+  Type: Fighting
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Hitmonchan
+  Type: Fighting
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Lickitung
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Koffing
+  Type: Poison
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Weezing
+  Type: Poison
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Rhyhorn
+  Type: Ground
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Rhydon
+  Type: Ground
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Chansey
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Tangela
+  Type: Grass
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Kangaskhan
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Horsea
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Seedra
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Goldeen
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Seaking
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Staryu
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Starmie
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Starmie
+  Type: Psychic
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Mr.Mime
+  Type: Fairy
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Mr.Mime
+  Type: Psychic
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Scyther
+  Type: Grass
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Scyther
+  Type: Flying
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Jynx
+  Type: Psychic
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Jynx
+  Type: Ice
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Electrabuzz
+  Type: Electric
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Magmar
+  Type: Fire
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Pinsir
+  Type: Grass
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Tauros
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Magicarp
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Gyarados
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Lapras
+  Type: Ice
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Ditto
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Evee
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Vaporeon
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Jolteon
+  Type: Electric
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Flareon
+  Type: Fire
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Porygon
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Omanyte
+  Type: Water
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Omastar
+  Type: Water
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Kabuto
+  Type: Ground
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Kabutops
+  Type: Ground
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Aerodactyl
+  Type: Ground
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Aerodactyl
+  Type: Flying
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Snorlax
+  Type: Normal
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Articuno
+  Type: Ice
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Zapdos
+  Type: Electric
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Moltres
+  Type: Fire
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Articuno
+  Type: Flying
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Zapdos
+  Type: Flying
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Moltres
+  Type: Flying
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Dratini
+  Type: Dragon
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Dragonair
+  Type: Dragon
+  Stage: One
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Dragonite
+  Type: Dragon
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Dragonite
+  Type: Flying
+  Stage: Two
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Mewtwo
+  Type: Psychic
+  Stage: Zero
+  Generation: One
+
+- !ruby/object:Poke
+  Name: Mew
+  Type: Psychic
+  Stage: Zero
+  Generation: One
+
+
+
+
+
+- !ruby/object:Poke
+  Name: Chikorita
+  Type: Grass
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Bayleef
+  Type: Grass
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Meganium
+  Type: Grass
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Cyndaquil
+  Type: Fire
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Quilava
+  Type: Fire
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Typhlosion
+  Type: Fire
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Totoile
+  Type: Water
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Coconaw
+  Type: Water
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Feraligatr
+  Type: Water
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Sentret
+  Type: Normal
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Furret
+  Type: Normal
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Hoothoot
+  Type: Flying
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Noctowl
+  Type: Flying
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Hoothoot
+  Type: Normal
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Noctowl
+  Type: Normal
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Ledyba
+  Type: Grass
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Ledian
+  Type: Grass
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Ledyba
+  Type: Normal
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Ledian
+  Type: Normal
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Spinarak
+  Type: Poison
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Ariados
+  Type: Poison
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Crobat
+  Type: Poison
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Crobat
+  Type: Flying
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Chinchou
+  Type: Electric
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Lanturn
+  Type: Electric
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Chinchou
+  Type: Water
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Lanturn
+  Type: Water
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Pichu
+  Type: Electric
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Cleffa
+  Type: Fairy
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Igglybuff
+  Type: Fairy
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Cleffa
+  Type: Normal
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Igglybuff
+  Type: Normal
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Togepi
+  Type: Fairy
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Togetic
+  Type: Fairy
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Natu
+  Type: Psychic
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Xatu
+  Type: Psychic
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Mareep
+  Type: Electric
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Flaffy
+  Type: Electric
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Ampharos
+  Type: Electric
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Belossom
+  Type: Grass
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Marill
+  Type: Fairy
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Azumarill
+  Type: Fairy
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Marill
+  Type: Water
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Azumarill
+  Type: Water
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Sudowoodo
+  Type: Ground
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Politoed
+  Type: Water
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Hoppip
+  Type: Grass
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Skiploom
+  Type: Grass
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Jumpluff
+  Type: Grass
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Hoppip
+  Type: Flying
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Skiploom
+  Type: Flying
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Jumpluff
+  Type: Flying
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Aipom
+  Type: Normal
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Sunkern
+  Type: Grass
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Sunflora
+  Type: Grass
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Yanma
+  Type: Grass
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Yanma
+  Type: Flying
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Wooper
+  Type: Water
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Quagsire
+  Type: Water
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Wooper
+  Type: Ground
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Quagsire
+  Type: Ground
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Espeon
+  Type: Psychic
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Umbreon
+  Type: Dark
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Murkrow
+  Type: Dark
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Murkrow
+  Type: Flying
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Sloking
+  Type: Water
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Sloking
+  Type: Psychic
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Misdreavus
+  Type: Ghost
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Unown
+  Type: Psychic
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Wobuffet
+  Type: Psychic
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Girafarig
+  Type: Psychic
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Girafarig
+  Type: Normal
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Pineco
+  Type: Grass
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Forettress
+  Type: Steel
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Dunsparce
+  Type: Normal
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Gligar
+  Type: Ground
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Gligar
+  Type: Flying
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Steelix
+  Type: Steel
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Steelix
+  Type: Ground
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Snubbull
+  Type: Fairy
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Granbull
+  Type: Fairy
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Qwilfish
+  Type: Poison
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Qwilfish
+  Type: Water
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Scizor
+  Type: Steel
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Shuckle
+  Type: Ground
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Heracross
+  Type: Grass
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Sneasel
+  Type: Dark
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Sneasel
+  Type: Ice
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Teddiursa
+  Type: Normal
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Ursaring
+  Type: Normal
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Slugma
+  Type: Fire
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Magcargo
+  Type: Fire
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Swinub
+  Type: Ground
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Piloswine
+  Type: Ground
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Swinub
+  Type: Ice
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Piloswine
+  Type: Ice
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Corsola
+  Type: Water
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Remoraid
+  Type: Water
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Octillery
+  Type: Water
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Delibird
+  Type: Ice
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Mantine
+  Type: Water
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Skarmory
+  Type: Steel
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Delibird
+  Type: Flying
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Mantine
+  Type: Flying
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Skarmory
+  Type: Flying
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Houndour
+  Type: Dark
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Houndoom
+  Type: Dark
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Houndour
+  Type: Fire
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Houndoom
+  Type: Fire
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Kingdra
+  Type: Dragon
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Kingdra
+  Type: Water
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Phanpy
+  Type: Ground
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Donphan
+  Type: Ground
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Porygon2
+  Type: Normal
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Stantler
+  Type: Normal
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Smeargle
+  Type: Normal
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Tyrogue
+  Type: Fighting
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Hitmontop
+  Type: Fighting
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Smoochum
+  Type: Psychic
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Smoochum
+  Type: Ice
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Elekid
+  Type: Electric
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Magby
+  Type: Fire
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Miltank
+  Type: Normal
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Noctowl
+  Type: Normal
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Blissey
+  Type: Normal
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Raikou
+  Type: Electric
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Entei
+  Type: Fire
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Suicune
+  Type: Water
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Larvitar
+  Type: Ground
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Pupitar
+  Type: Ground
+  Stage: One
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Tyranitar
+  Type: Dark
+  Stage: Two
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Lugia
+  Type: Flying
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Ho-Oh
+  Type: Fire
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Lugia
+  Type: Psychic
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Ho-Oh
+  Type: Flying
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Celebi
+  Type: Grass
+  Stage: Zero
+  Generation: Two
+
+- !ruby/object:Poke
+  Name: Celebi
+  Type: Psychic
+  Stage: Zero
+  Generation: Two
+
+
+
+
+- !ruby/object:Poke
+  Name: Treecko
+  Type: Grass
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Grovyle
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Sceptile
+  Type: Grass
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Torchic
+  Type: Fire
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Combusken
+  Type: Fire
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Blaziken
+  Type: Fire
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Combusken
+  Type: Fighting
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Blaziken
+  Type: Fighting
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Mudkip
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Marshtomp
+  Type: Water
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Mudkip
+  Type: Ground
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Marshtomp
+  Type: Ground
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Swampert
+  Type: Water
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Poochyena
+  Type: Dark
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Mightyena
+  Type: Dark
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Zigzagoon
+  Type: Normal
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Linoone
+  Type: Normal
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Wurmple
+  Type: Grass
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Silicoon
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Beautifly
+  Type: Grass
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Beautifly
+  Type: Flying
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Cascoon
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Dustox
+  Type: Poison
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Dustox
+  Type: Flying
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Lotad
+  Type: Grass
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Lombre
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Ludicolo
+  Type: Water
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Lotad
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Lombre
+  Type: Water
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Ludicolo
+  Type: Grass
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Seedot
+  Type: Grass
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Nuzleaf
+  Type: Dark
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Shiftry
+  Type: Dark
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Nuzleaf
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Shiftry
+  Type: Grass
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Taillow
+  Type: Flying
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Swellow
+  Type: Flying
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Wingull
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Pelipper
+  Type: Water
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Taillow
+  Type: Normal
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Swellow
+  Type: Normal
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Wingull
+  Type: Flying
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Pelipper
+  Type: Flying
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Ralts
+  Type: Psychic
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Kirlia
+  Type: Psychic
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Gardevoir
+  Type: Fairy
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Ralts
+  Type: Fairy
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Kirlia
+  Type: Fairy
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Gardevoir
+  Type: Psychic
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Surskit
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Masquerain
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Masquerain
+  Type: Flying
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Shroomish
+  Type: Grass
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Breloom
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Breloom
+  Type: Fighting
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Slakoth
+  Type: Normal
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Vigoroth
+  Type: Normal
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Slaking
+  Type: Normal
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Nincada
+  Type: Grass
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Ninjask
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Shedinja
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Nincada
+  Type: Ground
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Ninjask
+  Type: Flying
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Shedinja
+  Type: Ghost
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Whismur
+  Type: Normal
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Loudred
+  Type: Normal
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Exploud
+  Type: Normal
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Makuhita
+  Type: Fighting
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Hariyama
+  Type: Fighting
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Azurill
+  Type: Fairy
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Azurill
+  Type: Normal
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Nosepass
+  Type: Ground
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Skitty
+  Type: Normal
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Delcatty
+  Type: Normal
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Sableye
+  Type: Dark
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Sableye
+  Type: Ghost
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Mawile
+  Type: Steel
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Mawile
+  Type: Fairy
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Aron
+  Type: Steel
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Lairon
+  Type: Steel
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Aggron
+  Type: Steel
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Meditite
+  Type: Fighting
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Medicham
+  Type: Fighting
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Meditite
+  Type: Psychic
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Medicham
+  Type: Psychic
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Electrike
+  Type: Electric
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Manectric
+  Type: Electric
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Plusle
+  Type: Electric
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Minun
+  Type: Electric
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Volbeat
+  Type: Grass
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Illumise
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Roselia
+  Type: Grass
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Roselia
+  Type: Poison
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Gulpin
+  Type: Poison
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Swalot
+  Type: Poison
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Cavanha
+  Type: Dark
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Sharpedo
+  Type: Dark
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Cavanha
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Sharpedo
+  Type: Water
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Wailmer
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Wailord
+  Type: Water
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Numel
+  Type: Fire
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Camerupt
+  Type: Fire
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Numel
+  Type: Ground
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Camerupt
+  Type: Ground
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Torkoal
+  Type: Fire
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Spoink
+  Type: Psychic
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Grumpig
+  Type: Psychic
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Spinda
+  Type: Normal
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Trapinch
+  Type: Ground
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Vibrava
+  Type: Dragon
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Flygon
+  Type: Dragon
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Vibrava
+  Type: Ground
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Flygon
+  Type: Ground
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Cacnea
+  Type: Grass
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Cacturne
+  Type: Dark
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Cacturne
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Swablu
+  Type: Normal
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Altaria
+  Type: Dragon
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Swablu
+  Type: Flying
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Altaria
+  Type: Flying
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Zangoose
+  Type: Normal
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Seviper
+  Type: Poison
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Lunatone
+  Type: Ground
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Solrock
+  Type: Ground
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Lunatone
+  Type: Psychic
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Solrock
+  Type: Psychic
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Barboach
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Whiscash
+  Type: Water
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Barboach
+  Type: Ground
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Whiscash
+  Type: Ground
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Corphish
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Crawdaunt
+  Type: Dark
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Crawdaunt
+  Type: Water
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Baltoy
+  Type: Psychic
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Claydol
+  Type: Psychic
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Baltoy
+  Type: Ground
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Claydol
+  Type: Ground
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Lileep
+  Type: Grass
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Cradily
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Anorith
+  Type: Ground
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Armaldo
+  Type: Ground
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Feebas
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Milotic
+  Type: Water
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Castform
+  Type: Normal
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Kecleon
+  Type: Normal
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Shuppet
+  Type: Ghost
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Banette
+  Type: Ghost
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Duskull
+  Type: Ghost
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Dusclops
+  Type: Ghost
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Tropius
+  Type: Grass
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: CHimecho
+  Type: Psychic
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Absol
+  Type: Dark
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Nuzleaf
+  Type: Grass
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Wynaut
+  Type: Psychic
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Snorunt
+  Type: Ice
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Glalie
+  Type: Ice
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Spheal
+  Type: Ice
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Sealeo
+  Type: Ice
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Walrein
+  Type: Ice
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Spheal
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Sealeo
+  Type: Water
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Walrein
+  Type: Water
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Clamperl
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Huntail
+  Type: Water
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Gorebyss
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Relicanth
+  Type: Water
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Luvdisc
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Bagon
+  Type: Dragon
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Shelgon
+  Type: Dragon
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Salamence
+  Type: Dragon
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Salamence
+  Type: Flying
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Beldum
+  Type: Steel
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Metagross
+  Type: Steel
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Metang
+  Type: Steel
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Beldum
+  Type: Psychic
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Metagross
+  Type: Psychic
+  Stage: Two
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Metang
+  Type: Psychic
+  Stage: One
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Regirock
+  Type: Ground
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Regice
+  Type: Ice
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Registeel
+  Type: Steel
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Latias
+  Type: Dragon
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Latios
+  Type: Dragon
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Latias
+  Type: Psychic
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Latios
+  Type: Psychic
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Kyogre
+  Type: Water
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Groudon
+  Type: Ground
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Rayquaza
+  Type: Dragon
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Rayquaza
+  Type: Flying
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Jirachi
+  Type: Steel
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Jirachi
+  Type: Psychic
+  Stage: Zero
+  Generation: Three
+
+- !ruby/object:Poke
+  Name: Deoxys
+  Type: Psychic
+  Stage: Zero
+  Generation: Three
+
+
+
+
+
+- !ruby/object:Poke
+  Name: Turtwig
+  Type: Grass
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Grotle
+  Type: Grass
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Torterra
+  Type: Grass
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Torterra
+  Type: Ground
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Chimchar
+  Type: Fire
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Monferno
+  Type: Fire
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Infernape
+  Type: Fire
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Monferno
+  Type: Fighting
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Infernape
+  Type: Fighting
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Piplup
+  Type: Water
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Prinplup
+  Type: Water
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Empoleon
+  Type: Water
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Empoleon
+  Type: Steel
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Starly
+  Type: Flying
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Staravia
+  Type: Flying
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Staraptor
+  Type: Normal
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Starly
+  Type: Normal
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Staravia
+  Type: Normal
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Staraptor
+  Type: Flying
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Bidoof
+  Type: Normal
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Bibarel
+  Type: Normal
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Bibarel
+  Type: Water
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Kricketot
+  Type: Grass
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Kricketune
+  Type: Grass
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Shinx
+  Type: Electric
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Luxio
+  Type: Electric
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Luxray
+  Type: Electric
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Budew
+  Type: Grass
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Roserade
+  Type: Grass
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Cranidos
+  Type: Ground
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Rampardos
+  Type: Ground
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Shieldon
+  Type: Steel
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Bastiodon
+  Type: Steel
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Burmy
+  Type: Grass
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Wormadam
+  Type: Grass
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Mothim
+  Type: Grass
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Combee
+  Type: Grass
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Vespiquen
+  Type: Grass
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Mothim
+  Type: Flying
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Combee
+  Type: Flying
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Vespiquen
+  Type: Flying
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Pachirisu
+  Type: Electric
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Buizel
+  Type: Water
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Floatzel
+  Type: Water
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Cherubi
+  Type: Grass
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Cherrim
+  Type: Grass
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Shellos
+  Type: Water
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Gastrodon
+  Type: Water
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Ambipom
+  Type: Normal
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Drifloon
+  Type: Ghost
+  Stage: Normal
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Drifblim
+  Type: Ghost
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Buneary
+  Type: Normal
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Lopunny
+  Type: Normal
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Mismagius
+  Type: Ghost
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Honchkrow
+  Type: Dark
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Honchkrow
+  Type: Flying
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Glameow
+  Type: Normal
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Purugly
+  Type: Normal
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Chingling
+  Type: Psychic
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Stunky
+  Type: Dark
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Skuntank
+  Type: Dark
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Stunky
+  Type: Poison
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Skuntank
+  Type: Poison
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Bronzor
+  Type: Steel
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Bronzong
+  Type: Steel
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Bronzor
+  Type: Psychic
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Bronzong
+  Type: Psychic
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Bonsly
+  Type: Ground
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Mime.Jr
+  Type: Fairy
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Mime.Jr
+  Type: Psychic
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Happiny
+  Type: Normal
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Chatot
+  Type: Normal
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Chatot
+  Type: Flying
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Spiritomb
+  Type: Ghost
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Spiritomb
+  Type: Dark
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Gible
+  Type: Dragon
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Gabite
+  Type: Dragon
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Garchomp
+  Type: Dragon
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Gible
+  Type: Ground
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Gabite
+  Type: Ground
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Garchomp
+  Type: Ground
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Munchlax
+  Type: Normal
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Riolu
+  Type: Fighting
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Lucario
+  Type: Fighting
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Lucario
+  Type: Steel
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Hippopotas
+  Type: Ground
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Hippowdon
+  Type: Ground
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Skorupi
+  Type: Poison
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Drapion
+  Type: Poison
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Skorupi
+  Type: Grass
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Drapion
+  Type: Dark
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Croagunk
+  Type: Poison
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Toxicroak
+  Type: Poison
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Croagunk
+  Type: Fighting
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Toxicroak
+  Type: Fighting
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Carnivine
+  Type: Grass
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Finneon
+  Type: Water
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Luminion
+  Type: Water
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Mantvke
+  Type: Water
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Snover
+  Type: Ice
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Abomasnow
+  Type: Ice
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Weavile
+  Type: Dark
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Magnezone
+  Type: Electric
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Magnezone
+  Type: Steel
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Lickilicky
+  Type: Normal
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Rhyperior
+  Type: Ground
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Tangworth
+  Type: Grass
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Electivire
+  Type: Electric
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Magmortar
+  Type: Fire
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Togekiss
+  Type: Fairy
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Togekiss
+  Type: Flying
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Yanmega
+  Type: Grass
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Yanmega
+  Type: Flying
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Leafeon
+  Type: Grass
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Glaceon
+  Type: Ice
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Gliscor
+  Type: Ground
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Gliscor
+  Type: Flying
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Mamoswine
+  Type: Ground
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Mamoswine
+  Type: Ice
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Porygon-Z
+  Type: Normal
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Gallade
+  Type: Fighting
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Gallade
+  Type: Psychic
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Probopass
+  Type: Steel
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Dusnoir
+  Type: Ghost
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Froslass
+  Type: Ghost
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Rotom
+  Type: Ghost
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Froslass
+  Type: Ice
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Rotom
+  Type: Electric
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Uxie
+  Type: Psychic
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Mespirit
+  Type: Psychic
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Azelf
+  Type: Psychic
+  Stage: Two
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Dialga
+  Type: Steel
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Palkia
+  Type: Water
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Dialga
+  Type: Dragon
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Palkia
+  Type: Dragon
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Heatran
+  Type: Steel
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Heatran
+  Type: Fire
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Regigas
+  Type: Normal
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Giratina
+  Type: Dragon
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Giratina
+  Type: Ghost
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Cresselia
+  Type: Psychic
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Phione
+  Type: Water
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Manaphy
+  Type: Water
+  Stage: One
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Darkai
+  Type: Dark
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Shaymin
+  Type: Grass
+  Stage: Zero
+  Generation: Four
+
+- !ruby/object:Poke
+  Name: Arceus
+  Type: Normal
+  Stage: Zero
+  Generation: Four
+
+
+
+
+
+
+- !ruby/object:Poke
+  Name: Snivy
+  Type: Grass
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Servine
+  Type: Grass
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Serperior
+  Type: Grass
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Tepig
+  Type: Fire
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Pignite
+  Type: Fire
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Emboar
+  Type: Fire
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Pignite
+  Type: Fighting
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Emboar
+  Type: Fighting
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Oshawatt
+  Type: Water
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Dewott
+  Type: Water
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Samurott
+  Type: Water
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Victini
+  Type: Fire
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Patrat
+  Type: Normal
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Watchog
+  Type: Normal
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Lillipup
+  Type: Normal
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Herdier
+  Type: Normal
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Stoutland
+  Type: Normal
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Purrlion
+  Type: Dark
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Liepard
+  Type: Dark
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Pansage
+  Type: Grass
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Simisage
+  Type: Grass
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Pansear
+  Type: Fire
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Simisear
+  Type: Fire
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Papour
+  Type: Water
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Simipour
+  Type: Water
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Munna
+  Type: Poison
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Musharna
+  Type: Poison
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Pidove
+  Type: Flying
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Tranquill
+  Type: Flying
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Unfezant
+  Type: Flying
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Pidove
+  Type: Normal
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Tranquill
+  Type: Normal
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Unfezant
+  Type: Normal
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Blitzle
+  Type: Electric
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Zebstrika
+  Type: Electric
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Roggenrola
+  Type: Ground
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Boldore
+  Type: Ground
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Gigalith
+  Type: Ground
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Woobat
+  Type: Poison
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Swoobat
+  Type: Poison
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Woobat
+  Type: Psychic
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Swoobat
+  Type: Psychic
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Drilbur
+  Type: Ground
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Excadrill
+  Type: Steel
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Excadrill
+  Type: Ground
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Audino
+  Type: Normal
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Timburr
+  Type: Fighting
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Gurdurr
+  Type: Fighting
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Conkeldurr
+  Type: Fighting
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Tympole
+  Type: Water
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Palpitoad
+  Type: Water
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Seismitoad
+  Type: Water
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Palpitoad
+  Type: Ground
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Seismitoad
+  Type: Ground
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Throh
+  Type: Fighting
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Sawk
+  Type: Fighting
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Sewaddle
+  Type: Grass
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Swadloon
+  Type: Water
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Leavanny
+  Type: Grass
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Venipede
+  Type: Poison
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Whirlipede
+  Type: Poison
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Scorlipede
+  Type: Poison
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Cottonlee
+  Type: Fairy
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Whimsicott
+  Type: Fairy
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Cottonlee
+  Type: Grass
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Whimsicott
+  Type: Grass
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Petilil
+  Type: Grass
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Lilligant
+  Type: Grass
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Basculin
+  Type: Water
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Sandile
+  Type: Dark
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Krokorok
+  Type: Dark
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Krookodile
+  Type: Dark
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Sandile
+  Type: Ground
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Krokorok
+  Type: Ground
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Krookodile
+  Type: Ground
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Darumaka
+  Type: Fire
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Darmanitan
+  Type: Fire
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Timburr
+  Type: Fighting
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Maractus
+  Type: Grass
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Dwebble
+  Type: Ground
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Crustle
+  Type: Ground
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Scraggy
+  Type: Dark
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Scrafty
+  Type: Dark
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Scraggy
+  Type: Fighting
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Scrafty
+  Type: Fighting
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Sigilyph
+  Type: Psychic
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Yamask
+  Type: Ghost
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Cofagrigus
+  Type: Ghost
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Tirtouga
+  Type: Water
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Carracosta
+  Type: Water
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Archen
+  Type: Flying
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Archeops
+  Type: Flying
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Trubbish
+  Type: Poison
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Garbodor
+  Type: Poison
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Zorua
+  Type: Dark
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Zoroark
+  Type: Dark
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Mincinno
+  Type: Normal
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Cincinno
+  Type: Normal
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Gothita
+  Type: Psychic
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Gothorita
+  Type: Psychic
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Gothitelle
+  Type: Psychic
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Solosis
+  Type: Psychic
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Duosion
+  Type: Psychic
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Reuniclus
+  Type: Normal
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Ducklett
+  Type: Water
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Swanna
+  Type: Water
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Ducklett
+  Type: Flying
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Swanna
+  Type: Flying
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: vanillite
+  Type: Ice
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Vannilish
+  Type: Ice
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Vanniluxe
+  Type: Ice
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Emolga
+  Type: Electric
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Emolga
+  Type: Flying
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Deerling
+  Type: Grass
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Sawsbuck
+  Type: Grass
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Deerling
+  Type: Normal
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Sawsbuck
+  Type: Normal
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Karrablast
+  Type: Grass
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Excavalier
+  Type: Steel
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Foongus
+  Type: Poison
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Amoongus
+  Type: Poison
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Foongus
+  Type: Grass
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Amoongus
+  Type: Grass
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Frillish
+  Type: Water
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Jellicent
+  Type: Water
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Frillish
+  Type: Ghost
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Jellicent
+  Type: Ghost
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Alomomola
+  Type: Water
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Joltik
+  Type: Electric
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Galvantula
+  Type: Electric
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Ferroseed
+  Type: Steel
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Ferrothorn
+  Type: Steel
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Ferroseed
+  Type: Grass
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Ferrothorn
+  Type: Grass
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Klink
+  Type: Steel
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Klang
+  Type: Steel
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Klinklang
+  Type: Steel
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Tynamo
+  Type: Electric
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Eelektrik
+  Type: Electric
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Eelektross
+  Type: Electric
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Elgyem
+  Type: Psychic
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Beheeyem
+  Type: Psychic
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Litwick
+  Type: Ghost
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Lampent
+  Type: Ghost
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Chandelure
+  Type: Ghost
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Litwick
+  Type: Fire
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Lampent
+  Type: Fire
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Chandelure
+  Type: Fire
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Axew
+  Type: Dragon
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Fraxure
+  Type: Dragon
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Haxorus
+  Type: Dragon
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Cubchoo
+  Type: Ice
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Beartic
+  Type: Ice
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Cryogonal
+  Type: Ice
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Stunfisk
+  Type: Electric
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Shellmet
+  Type: Grass
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Accelgor
+  Type: Grass
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Mienfoo
+  Type: Fighting
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Mienshao
+  Type: Fighting
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Druddigon
+  Type: Dragon
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Bouffalant
+  Type: Normal
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Golett
+  Type: Fighting
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Golurk
+  Type: Fighting
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Golett
+  Type: Ground
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Golurk
+  Type: Ground
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Golett
+  Type: Ghost
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Golurk
+  Type: Ghost
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Pawniard
+  Type: Steel
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Bisharp
+  Type: Steel
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Pawniard
+  Type: Dark
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Bisharp
+  Type: Dark
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Rufflet
+  Type: Flying
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Braviary
+  Type: Flying
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Vullaby
+  Type: Dark
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Mandibuzz
+  Type: Dark
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Heatmor
+  Type: Fire
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Durant
+  Type: Steel
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Deino
+  Type: Dragon
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Zweilous
+  Type: Dragon
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Hydreigon
+  Type: Dragon
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Deino
+  Type: Dark
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Zweilous
+  Type: Dark
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Hydreigon
+  Type: Dark
+  Stage: Two
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Virizion
+  Type: Grass
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Virizion
+  Type: Fighting
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Larvesta
+  Type: Fire
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Volcanore
+  Type: Fire
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Cobalion
+  Type: Steel
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Cobalion
+  Type: Fighting
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Terrakion
+  Type: Ground
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Tornadus
+  Type: Flying
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Thunderous
+  Type: Electric
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Thunderous
+  Type: Flying
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Reshiram
+  Type: Dragon
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Zekrom
+  Type: Dragon
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Reshiram
+  Type: Fire
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Zekrom
+  Type: Electric
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Landorus
+  Type: Ground
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Landorus
+  Type: Flying
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Kyurem
+  Type: Ice
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Keldeo
+  Type: Water
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Kyurem
+  Type: Dragon
+  Stage: One
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Keldeo
+  Type: Fighting
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Meloetta
+  Type: Psychic
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Meloetta
+  Type: Fighting
+  Stage: Zero
+  Generation: Five
+
+- !ruby/object:Poke
+  Name: Genesekt
+  Type: Grass
+  Stage: Zero
+  Generation: Five
+
+
+
+
+
+
+- !ruby/object:Poke
+  Name: Chespin
+  Type: Grass
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Quilladin
+  Type: Grass
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Chesnaught
+  Type: Grass
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Chesnaught
+  Type: Fighting
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Fennekin
+  Type: Fire
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Braxien
+  Type: Fire
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Delphox
+  Type: Fire
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Delphox
+  Type: Psychic
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Froakie
+  Type: Water
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Fragadier
+  Type: Water
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Greninja
+  Type: Water
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Greninja
+  Type: Dark
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Bunnelby
+  Type: Normal
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Diggersby
+  Type: Normal
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Diggersby
+  Type: Ground
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Fletchling
+  Type: Fire
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Fletchinder
+  Type: Fire
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Talonflame
+  Type: Fire
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Fletchling
+  Type: Flying
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Fletchinder
+  Type: Flying
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Talonflame
+  Type: Flying
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Scatterbug
+  Type: Grass
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Spewpa
+  Type: Grass
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Vivillon
+  Type: Grass
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Vivillon
+  Type: Flying
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Litleo
+  Type: Fire
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Pyroar
+  Type: Fire
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Fabebe
+  Type: Fairy
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Floette
+  Type: Fairy
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Florges
+  Type: Fairy
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Skiddo
+  Type: Grass
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Gogoat
+  Type: Grass
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Pancham
+  Type: Fighting
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Pangoro
+  Type: Dark
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Pangoro
+  Type: Fighting
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Espurr
+  Type: Psychic
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Meowstic
+  Type: Psychic
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Furfrou
+  Type: Normal
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Honedge
+  Type: Steel
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Doublade
+  Type: Steel
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Aegislash
+  Type: Steel
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Honedge
+  Type: Ghost
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Doublade
+  Type: Ghost
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Aegislash
+  Type: Ghost
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Spritzee
+  Type: Fairy
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Armomarisse
+  Type: Fairy
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Swirlix
+  Type: Fairy
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Swirpuff
+  Type: Fairy
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Inkay
+  Type: Dark
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Malamar
+  Type: Dark
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Inkay
+  Type: Psychic
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Malamar
+  Type: Psychic
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Binacle
+  Type: Ground
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Barbaracle
+  Type: Ground
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Binacle
+  Type: Water
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Barbaracle
+  Type: Water
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Skrelp
+  Type: Poison
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Dragagle
+  Type: Poison
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Skrelp
+  Type: Water
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Dragagle
+  Type: Dragon
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Clauncher
+  Type: Water
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Clawitzer
+  Type: Water
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Helioptile
+  Type: Electric
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Heliolisk
+  Type: Electric
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Tyrunt
+  Type: Dragon
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Tyrantum
+  Type: Dragon
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Amaura
+  Type: Ice
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Aurorus
+  Type: Ice
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Sylveon
+  Type: Fairy
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Hawlucha
+  Type: Fighting
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Dedenne
+  Type: Electric
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Dedenne
+  Type: Fairy
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Carbink
+  Type: Fairy
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Goomy
+  Type: Dragon
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: SLiggoo
+  Type: Dragon
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Goodra
+  Type: Dragon
+  Stage: Two
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Klefki
+  Type: Steel
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Klefki
+  Type: Fairy
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Phantump
+  Type: Ghost
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Trevenent
+  Type: Ghost
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Pumpkaboo
+  Type: Ghost
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Gourgeist
+  Type: Ghost
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Phantump
+  Type: Grass
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Trevenent
+  Type: Grass
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Pumpkaboo
+  Type: Grass
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Gourgeist
+  Type: Grass
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Bergmite
+  Type: Ice
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Avalugg
+  Type: Ice
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Noibat
+  Type: Dragon
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Noivern
+  Type: Dragon
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Xerneas
+  Type: Fairy
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Yveltal
+  Type: Dark
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Zygarde
+  Type: Dragon
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Zygarde
+  Type: Ground
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Diancie
+  Type: Fairy
+  Stage: One
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Hoopa
+  Type: Psychic
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Volcanion
+  Type: Fire
+  Stage: Zero
+  Generation: Six
+
+- !ruby/object:Poke
+  Name: Volcanion
+  Type: Water
+  Stage: Zero
+  Generation: Six
